@@ -1,0 +1,19 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.0.0",
+    "mongoose": "^8.6.1",
+    "nodemon": "^3.1.4",
+    "shortid": "^2.2.16",
+    "url": "^0.11.4"
+  }
+}
